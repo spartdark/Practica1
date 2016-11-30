@@ -1,0 +1,15 @@
+H:\calcu\calcu\bin\Debug\calcu.exe
+H:\calcu\calcu\bin\Debug\calcu.pdb
+H:\calcu\calcu\bin\Debug\calcu.xml
+H:\calcu\calcu\obj\Debug\WindowsApplication1.Form1.resources
+H:\calcu\calcu\obj\Debug\WindowsApplication1.Resources.resources
+H:\calcu\calcu\obj\Debug\calcu.vbproj.GenerateResource.Cache
+H:\calcu\calcu\obj\Debug\calcu.exe
+H:\calcu\calcu\obj\Debug\calcu.xml
+H:\calcu\calcu\obj\Debug\calcu.pdb
+H:\Practicas visual\calcu\calcu\obj\Debug\calcu.exe
+H:\Practicas visual\calcu\calcu\obj\Debug\calcu.xml
+H:\Practicas visual\calcu\calcu\obj\Debug\calcu.pdb
+H:\Practicas visual\Practica1\calcu\obj\Debug\calcu.exe
+H:\Practicas visual\Practica1\calcu\obj\Debug\calcu.xml
+H:\Practicas visual\Practica1\calcu\obj\Debug\calcu.pdb
